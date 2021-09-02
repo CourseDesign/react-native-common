@@ -1,0 +1,9 @@
+{
+  "entryPoints": [
+    "./src/"
+  ],
+  "out": "docs",
+  "exclude": "**/index.ts|example/",
+  "name": "@course-design/react-native-common",
+  "includeVersion": true
+}
