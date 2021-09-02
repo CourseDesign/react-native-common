@@ -448,5 +448,4 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/android,node,reactnative,xcode
 
 lib/
-docs/
 .idea/
