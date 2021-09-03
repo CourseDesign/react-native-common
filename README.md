@@ -1,4 +1,4 @@
-# @course-design/react-native-common
+# @course-design/rn-system
 
 common element for react native
 
@@ -9,18 +9,18 @@ common element for react native
 * `react-native-gesture-handler` >= 1.10.0
 
 ### Pre-installation
-You **MUST** to follow below instructions before install `@course-design/react-native-common`
+You **MUST** to follow below instructions before install `@course-design/rn-system`
 * [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): [instruction](https://docs.swmansion.com/react-native-reanimated/docs/installation)
 * [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler): [instruction](https://docs.swmansion.com/react-native-gesture-handler/docs/)
 
 ### Installation
 
 ```shell
-npm install --save @course-design/react-native-common
+npm install --save @course-design/rn-system
 ```
 or if you want to use yarn
 ```shell
-yarn add @course-design/react-native-common
+yarn add @course-design/rn-system
 ```
 ## Example
 
@@ -42,8 +42,8 @@ npm run ios
 
 ## Documentation
 
-* [Typedoc](https://coursedesign.github.io/react-native-common)
-* [Notion](https://www.notion.so/coursedesign/course-design-react-native-common-b493624ce978497ea0f449e91526fc33)
+* [Typedoc](https://coursedesign.github.io/rn-system)
+* [Notion](https://www.notion.so/coursedesign/course-design-rn-system-b493624ce978497ea0f449e91526fc33)
 
 ## License
 

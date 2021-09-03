@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import {
   ThemeProvider, Typography, useSize, Box,
-} from '@course-design/react-native-common';
+} from '@course-design/rn-system';
 
 const App = (): JSX.Element => {
   const width = useSize('app-width');
