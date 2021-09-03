@@ -1,5 +1,5 @@
 {
-  "name": "@course-design/react-native-common",
+  "name": "@course-design/rn-system",
   "version": "0.1.0",
   "description": "common element for react native",
   "main": "lib/commonjs/index",
@@ -40,13 +40,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Su-Yong/course-design-react-native-common",
+  "repository": "https://github.com/CourseDesign/rn-system",
   "author": "Su-Yong <simssy2205@gmail.com> (https://github.com/Su-Yong)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Su-Yong/course-design-react-native-common/issues"
+    "url": "https://github.com/CourseDesign/rn-system/issues"
   },
-  "homepage": "https://github.com/Su-Yong/course-design-react-native-common#readme",
+  "homepage": "https://coursedesign.github.io/rn-system",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
